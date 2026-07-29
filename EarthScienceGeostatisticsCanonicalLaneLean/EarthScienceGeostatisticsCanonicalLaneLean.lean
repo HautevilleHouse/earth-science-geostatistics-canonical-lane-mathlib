@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace EarthScienceGeostatisticsCanonicalLaneLean
+
+end EarthScienceGeostatisticsCanonicalLaneLean
+end HautevilleHouse
